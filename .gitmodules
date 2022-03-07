@@ -1,0 +1,3 @@
+[submodule "3rd/hamtaro"]
+	path = 3rd/hamtaro
+	url = https://github.com/MinamiKotoriCute/hamtaro
